@@ -84,3 +84,9 @@ float_example = float(a)
 print(float_example)
 print(type(float_example))
 
+#OPERATORS- operator is a symbol to carry out arithmetical or logical operations
+
+a = 5
+b = 10
+sum = a+b
+print(sum)
